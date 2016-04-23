@@ -2,5 +2,8 @@
 'use strict';
 
 module.exports = {
-  name: 'page-title-wrapper'
+  name: 'page-title-wrapper',
+  isDevelopingAddon: function() {
+    return true;
+  }
 };

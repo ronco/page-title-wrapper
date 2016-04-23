@@ -43,6 +43,7 @@
     "ember-addon"
   ],
   "dependencies": {
+    "ember-page-title": "git@github.com:ronco/ember-page-title.git#addon-hack",
     "ember-cli-babel": "^5.1.5"
   },
   "ember-addon": {
